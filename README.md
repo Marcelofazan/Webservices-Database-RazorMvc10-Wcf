@@ -24,7 +24,7 @@ Modifique o [DIRETORIO] na string de conexão no arquivo **PessoaService.asmx**,
 
 ```bash
 ...
-		Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=[DIRETORIO]\\App_Data\\BancoTesteSoap.mdf;Integrated Security=True;"
+Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=[DIRETORIO]\\App_Data\\BancoTesteSoap.mdf;Integrated Security=True;"
 ...
 
 ```

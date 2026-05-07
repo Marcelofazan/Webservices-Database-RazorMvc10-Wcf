@@ -1,0 +1,7 @@
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\bin\exemploProvedorSOAP.dll.config
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\bin\exemploProvedorSOAP.dll
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\bin\exemploProvedorSOAP.pdb
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\obj\Debug\exemploProvedorSOAP.csproj.AssemblyReference.cache
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\obj\Debug\exemploProvedorSOAP.csproj.CoreCompileInputs.cache
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\obj\Debug\exemploProvedorSOAP.dll
+D:\Competencias\exemploProvedorSOAP\exemploProvedorSOAP\obj\Debug\exemploProvedorSOAP.pdb

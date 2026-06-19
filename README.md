@@ -1,5 +1,5 @@
 ## 🛠️ Soap-Provedor-Database
-Exemplo de WebServices SOAP em .NET WCF com banco de dados SQL-Server.
+Exemplo de WebServices SOAP em .NET WCF e Frontend em C# ASP.NET Core 10 com banco de dados SQL-Server.
 
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |

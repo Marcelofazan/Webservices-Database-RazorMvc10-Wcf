@@ -23,7 +23,7 @@ Para executar a aplicação é necessário:
 
 - Acessar link de referência da documentação: **http://localhost:54222/PessoaService.asmx**
 - O WSDL fica disponivel em **http://localhost:54222/PessoaService.asmx?wsdl**
-- 
+  
 ## 🌐 Razor-Consumir-Soap
 #### 📋 O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
